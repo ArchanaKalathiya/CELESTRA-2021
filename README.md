@@ -6,5 +6,4 @@
 ## Note 
 ### Please run this code through login.html page
 
-## Live Demo 
 
